@@ -1,0 +1,3 @@
+[submodule "amz-freertos"]
+	path = amz-freertos
+	url = https://github.com/fantasketech/iot_amz_frtos_cyp_psoc6.git
