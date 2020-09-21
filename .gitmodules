@@ -1,3 +1,0 @@
-[submodule "FreeRTOS"]
-        path = amz-FreeRTOS
-        url = https://github.com/fantasketech/iot_amz_frtos_cyp_psoc6.git
